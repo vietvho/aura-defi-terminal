@@ -27,7 +27,7 @@ export default function DashboardUiSidebar({ className = "", onClose }: Dashboar
                     <div className="w-8 h-8 bg-brand-blue rounded-full flex items-center justify-center">
                         <div className="w-4 h-4 bg-white/80 rounded-full blur-[1px]" />
                     </div>
-                    <span className="text-xl font-bold text-white">Capsule</span>
+                    <span className="text-xl font-bold text-white">Aura Defi Terminal</span>
                 </div>
                 {/* Mobile Close Button */}
                 {onClose && (
