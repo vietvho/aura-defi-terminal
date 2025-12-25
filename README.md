@@ -1,6 +1,6 @@
 # Aura DeFi Terminal ⚡️
 
-A professional, high-performance DeFi Dashboard and Trading Terminal built exclusively for the **Solana Blockchain**.
+A Demo, high-performance DeFi Dashboard and Trading Terminal built exclusively for the **Solana Blockchain**.
 
 ## 🌟 Features
 
